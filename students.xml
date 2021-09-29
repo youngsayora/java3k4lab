@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root root="http://www.javacore.ru/schemas/">
+    <Student age="18" averageMark="4.9" lastName="Иванов"/>
+    <Student age="19" averageMark="3.7" lastName="Петров"/>
+    <Student age="20" averageMark="4.9" lastName="Сидоров"/>
+    <Student age="19" averageMark="5.0" lastName="Попов"/>
+    <Student age="19" averageMark="4.25" lastName="Алексеев"/>
+    <Student age="20" averageMark="3.2" lastName="Александров"/>
+</root>
